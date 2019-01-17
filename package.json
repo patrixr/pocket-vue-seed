@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "express": "^4.16.4",
-    "pocket-cms": "^1.0.11"
+    "pocket-cms": "^1.0.12"
   },
   "devDependencies": {
     "@vue/component-compiler-utils": "^2.5.0",
